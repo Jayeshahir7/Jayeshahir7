@@ -2,7 +2,7 @@
 <h3 align="center">"A passionate Full Stack Developer!"</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFqb3pwYmp6MmY0cGFiNWp0M2ludzV2aGh6azJqOTV5OXh1eW16dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cb9aF9tDyiRkYbz3BX/giphy.gif" width="200" alt="Jayeshahir7 Profile" style="border-radius: 50%; border: 3px solid #4CAF50;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFqb3pwYmp6MmY0cGFiNWp0M2ludzV2aGh6azJqOTV5OXh1eW16dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cb9aF9tDyiRkYbz3BX/giphy.gif" width="250" alt="Jayeshahir7 Profile" style="border-radius: 50%; border: 3px solid #4CAF50;" />
 </p>
 
 <p align="center">
