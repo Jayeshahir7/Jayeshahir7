@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Jayeshahir7</h1>
-<h3 align="center">"A passionate  Developer!"</h3>
+<h3 align="center">"Apassionate  Developer!"</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFqb3pwYmp6MmY0cGFiNWp0M2ludzV2aGh6azJqOTV5OXh1eW16dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cb9aF9tDyiRkYbz3BX/giphy.gif" width="250" alt="Jayeshahir7 Profile" style="border-radius: 50%; border: 3px solid #4CAF50;" />
