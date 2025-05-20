@@ -18,7 +18,6 @@ I'm a **Full Stack Developer** with experience in **React**, **Node.js**, and **
 - 🔭 I’m currently working on **React** and **Node.js** projects.
 - 🌱 I'm focusing on **Microservices** and **DevOps** strategies.
 - 💬 Feel free to ask about **React**, **Node.js**, **GraphQL**, or **MongoDB**.
-- 👨‍💻 Check out my work on [Jayeshahir7's GitHub](https://github.com/Jayeshahir7)
 - ⚡ Fun fact: I'm a big fan of open-source and contributing to projects!
 
 ---
