@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Mee! 
+### 👨‍💻 About Me 
 
 I'm a **Full Stack Developer** with experience in **React**, **Node.js**, and **MongoDB**. I love building dynamic, scalable web apps and immersive mobile experiences. I believe in writing clean, maintainable code and am always up for exploring new technologies.
 
